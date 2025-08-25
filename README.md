@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🔭 I’m currently working on building an AI-driven diet coach app, [Hava](https://www.hava.co/)
-- 👯 I’m looking to collaborate on open source Golang projects
+- 🤝 I’m looking to collaborate on open-source Golang projects
 - 📫 How to reach me: [mrasool.mirzaei@gmail.com](mailto:mrasool.mirzaei@gmail.com)
 
 ## 🧰 Tech Stack
