@@ -1,10 +1,10 @@
 ## Hi there 👋
 
-<a href="https://stackexchange.com/users/5700916">
-  <img align="right" src="https://stackexchange.com/users/flair/5700916.png?theme=dark"
+<a href="https://stackoverflow.com/users/4505902/mrasoolmirza">
+  <img align="right" src="https://stackoverflow.com/users/flair/4505902.png?theme=dark"
        width="208" height="58"
-       alt="profile for mrasoolmirza on Stack Exchange, a network of free, community-driven Q&amp;A sites"
-       title="profile for mrasoolmirza on Stack Exchange, a network of free, community-driven Q&amp;A sites" />
+       alt="profile for mrasoolmirza at Stack Overflow, Q&amp;A for professional and enthusiast programmers"
+       title="profile for mrasoolmirza at Stack Overflow, Q&amp;A for professional and enthusiast programmers" />
 </a>
 
 <!--
